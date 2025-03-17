@@ -1,0 +1,11 @@
+/*
+Theme Name: Astra Child
+Theme URI: 
+Description: Tema hijo basado en Astra
+Author: Ruki
+Template: astra
+Version: 1.0
+Text Domain: astra-child
+*/
+
+@import url("../astra/style.css"); /* Importa el CSS del tema padre */
